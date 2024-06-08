@@ -1,4 +1,4 @@
-👋 Hi, I'm Louyse Macedo!
+👋 Hi, I'm **Louyse Macedo**!
 
 🎓 Data Science Undergraduate (Aug 2023/Dec 2025)
 
