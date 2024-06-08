@@ -1,25 +1,25 @@
-👋 Hi, I'm **Louyse Macedo**!
+# 👋 Hi, I'm **Louyse Macedo!**
 
-🎓 Data Science Undergraduate (Aug 2023/Dec 2025)
+🎓 **Data Science Undergraduate** (Aug 2023/Dec 2025)
 
-📍 Recife - PE, Brazil
+📍 **Recife - PE, Brazil**
 
-• Languages
+## Languages
 
-- Portuguese: Native
-- English: Fluent
+- **Portuguese**: Native
+- **English**: Fluent
 
-• Technologies and Tools
+## Technologies and Tools
 
-- Programming Languages: Python, Java, SQL, NoSQL
-- Data Visualization Tools: Power BI
-- Information Security: Kali Linux, Trend Vision One, Trend Cloud One
-- Networking: Cisco Packet Tracer
+- **Programming Languages**: Python, Java, SQL, NoSQL
+- **Data Visualization Tools**: Power BI
+- **Information Security**: Kali Linux, Trend Vision One, Trend Cloud One
+- **Networking**: Cisco Packet Tracer
 
-• Contact
 
-📧 Email: louyse.camile@hotmail.com
 
-🔗 LinkedIn: linkedin.com/in/louyse-macedo/
+## Contact
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration proposals. :))
+📧 **Email**: [louyse.camile@hotmail.com](mailto:louyse.camile@hotmail.com)
+
+🔗 **LinkedIn**: [linkedin.com/in/louyse-macedo/](https://www.linkedin.com/in/louyse-macedo/)
