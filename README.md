@@ -1,4 +1,4 @@
-# Hi, I'm Louyse Macedo! 👋
+# Hi, I'm Louyse Macedo! 🤘🏼
 
 <div align="center">
 <h2>📈 Github Statistics 📉</h2>
