@@ -9,7 +9,7 @@
   <a href="https://github.com/sabbr4cadabra">
     
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=sabbr4cadabra&show_icons=true&theme=neon" /> 
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbr4cadabra&layout=compact&hide_border=true&theme=jolly" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbr4cadabra&layout=compact&hide_border=true&theme=neon" />
 </div>
 
 
