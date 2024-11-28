@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=C71585&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hello,+my+name+is+Louyse+Macedo;I'm+25+years+old;I'm+from+Recife,+Brazil;I'm+an+Python+Developer+Jr;Data+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=C71585&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hello,+my+name+is+Louyse+Macedo;I'm+25+years+old;I'm+from+Recife,+Brazil;I'm+an+Fullstack+Developer+Jr;Data+Science+Student)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -40,10 +40,15 @@
 
 ## 💼 Experience
 
-### Freelancer - Python Developer jr
-**Feb 2024 - At the moment**
+### Junior Systems Analyst
+**Ago 2024 - At the moment**
 
-I work as a freelance Python developer, using Python, Postman, SQL, Anaconda and DBeaver focusing on database development and machine learning for intelligent application responses.
+• Development and implementation of chatbots using AI, integrating them with the
+WhatsApp for customer service.
+• Configuration of conversation flows and use of sentiment analysis, providing
+personalized and effective responses to user needs, using
+tools: Make and Manychat.
+• Building systems in Python
 
 ## 🛠️ Skills
 
