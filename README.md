@@ -45,10 +45,14 @@
 
 • Development and implementation of chatbots using AI, integrating them with the
 WhatsApp for customer service.
+
 • Configuration of conversation flows and use of sentiment analysis, providing
 personalized and effective responses to user needs, using
 tools: Make and Manychat.
-• Building systems in Python
+
+• Building systems in Python / Machine Learning
+
+
 
 ## 🛠️ Skills
 
