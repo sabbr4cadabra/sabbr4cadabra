@@ -42,8 +42,9 @@
 </p>
 
 ## 💼 Experience
-### Jr DevOps Analyst
-** Aug 2025 - At the moment **
+
+### Jr DevOps Analyst 
+**Aug 2025 - At the moment**
 
 • Expertise in cloud environment automation and monitoring, with experience in
 AWS (Lambda, EC2, S3, RDS, CloudWatch), Docker, and Python. Responsible
