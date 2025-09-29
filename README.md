@@ -42,9 +42,18 @@
 </p>
 
 ## 💼 Experience
+### Jr DevOps Analyst
+** Aug 2025 - At the moment **
+
+• Expertise in cloud environment automation and monitoring, with experience in
+AWS (Lambda, EC2, S3, RDS, CloudWatch), Docker, and Python. Responsible
+for automating new client installations, backup checklists via n8n, and
+continuous monitoring (AWS + Site24x7), applying CI/CD and IaC best practices
+to increase efficiency and availability.
+
 
 ### Trainee Fullstack Developer 
-**May 2025 - At the moment**
+**May 2025 - Jul 2025**
 
 • Software Implementation and Development using the Java language
 
